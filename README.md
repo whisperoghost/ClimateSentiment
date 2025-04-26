@@ -202,8 +202,8 @@ This anonymous repository contains a curated list of research papers referenced 
 - chulahwat2024impact – Wind characteristics and built environment damage during wildfire: the 2022 Marshall Fire
 - sykas2023eo4wildfires – EO4WildFires: Benchmark dataset for wildfire impact prediction
 - abatzoglou2013relationships – Relationships between climate and macroscale area burned in the western US
-
-li2020trends – Trends in lightning fires and smoke concentrations in response to climate change
+- li2020trends – Trends in lightning fires and smoke concentrations in response to climate change
+  
 ---
 
 ## 📎 BibTeX File
