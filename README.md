@@ -15,6 +15,9 @@ This anonymous repository contains a curated list of research papers referenced 
 
 📎 The repository will be updated continuously throughout the review period.
 
+We have also provided a Python script to automatically extract BibTeX entries and convert them into GitHub-compatible Markdown format.
+To use it, first install the required package by running ```pip install bibtexparser```
+
 ---
 
 ## 🔍 Browse Paper Categories
