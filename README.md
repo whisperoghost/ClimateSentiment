@@ -45,7 +45,6 @@ To use it, first install the required package by running ```pip install bibtexpa
 - **Climate Change Impacts on Human Health**. Kumar, Vinod. *Current Research in Medical Sciences*, 2024.
 - **Influence of Social Networks on National Television News Programmes**. {\v{S}}o{\v{s}}i{\'c}, Dajana and Maldini, Pero. *Collegium antropologicum*, 2019.
 - **The Impact of New Media on Contemporary Journalism**. Chaudhary, Muhammad Umair and Usman, Sobia and Ghani, Abdul and Farooq, Usman. *The Critical Review of Social Sciences Studies*, 2025.
-- **Social media impact on traditional media: A review on the reason behind the closure of Utusan Malaysia**. Kobiruzzaman, MM and GHAZALI, AKMAR HAYATI AHMAD. *International Journal of Education and Knowledge Management*, 2022.
 - **Impact of social media on society**. Bhat, Sangeeta. *International Research Journal on Advanced Engineering Hub (IRJAEH)*, 2024.
 - **The rise of social media and its impact on mainstream journalism**. Newman, Nic. *No Journal*, 2009.
 - **Social media impact on traditional media: A review on the reason behind the closure of Utusan Malaysia**. Kobiruzzaman, MM and GHAZALI, AKMAR HAYATI AHMAD. *International Journal of Education and Knowledge Management*, 2022.
